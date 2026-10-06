@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=A-XS&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Vibe%20Coder%20%7C%20Automation%20Specialist&descSize=18&descAlignY=55&textBg=false"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&customColorList=0d1117,161b22,21262d,30363d&text=A-XS&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Vibe%20Coder%20%7C%20Automation%20Specialist&descSize=18&descAlignY=55&textBg=false"/>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=axs-offcl">
     <img src="https://komarev.com/ghpvc/?username=axs-offcl&label=Profile%20views&color=00FFFF&style=flat-square" alt="axs-offcl's profile views" />

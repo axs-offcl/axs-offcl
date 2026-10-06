@@ -18,26 +18,17 @@
   <img src="https://trophy.ryglcloud.net/?username=axs-offcl&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="A-XS's GitHub Trophies" />
 </p>
 
-
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/axs-offcl">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=axs-offcl&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 <picture>
@@ -46,9 +37,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/https://ko-fi.com/axsoffcl" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div>
-
+<p align="center">
+  <a href="https://ko-fi.com/axsoffcl" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" />
+  </a>
+</p>
